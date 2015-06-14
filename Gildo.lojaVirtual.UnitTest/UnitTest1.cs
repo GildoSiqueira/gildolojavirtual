@@ -12,5 +12,3 @@ namespace Gildo.lojaVirtual.UnitTest
         }
     }
 }
-
-
