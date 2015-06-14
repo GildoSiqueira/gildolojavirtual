@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gildo.LojaVirtual.Dominio.Entidade
+namespace Gildo.LojaVirtual.Dominio.Entidades
 {
-    class Produto
+    public class Produto
     {
         public int ProdutoId { get; set; }
         public string Nome { get; set;}
