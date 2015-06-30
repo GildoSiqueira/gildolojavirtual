@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gildo.LojaVirtual.Dominio", "Gildo.LojaVirtual.Dominio\Gildo.LojaVirtual.Dominio.csproj", "{78BA9AEA-F8B0-4A1D-B3EE-666EDFA0A25C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gildo.lojaVirtual.Dominio", "Gildo.LojaVirtual.Dominio\Gildo.lojaVirtual.Dominio.csproj", "{78BA9AEA-F8B0-4A1D-B3EE-666EDFA0A25C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gildo.lojaVirtual.Web", "Gildo.lojaVirtual.Web\Gildo.lojaVirtual.Web.csproj", "{6D2868F9-2C78-4D4F-8C11-1EC4B0F9CDDA}"
 EndProject

@@ -1,8 +1,8 @@
-﻿using Gildo.LojaVirtual.Dominio.Entidades;
+﻿using Gildo.lojaVirtual.Dominio.Entidades;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
-namespace Gildo.LojaVirtual.Dominio.Repositorio
+namespace Gildo.lojaVirtual.Dominio.Repositorio
 {
     public class EfDbContext : DbContext
     {

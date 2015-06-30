@@ -1,4 +1,4 @@
-﻿using Gildo.LojaVirtual.Dominio.Repositorio;
+﻿using Gildo.lojaVirtual.Dominio.Repositorio;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -7,8 +7,8 @@
     <ProjectGuid>{78BA9AEA-F8B0-4A1D-B3EE-666EDFA0A25C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Gildo.LojaVirtual.Dominio</RootNamespace>
-    <AssemblyName>Gildo.LojaVirtual.Dominio</AssemblyName>
+    <RootNamespace>Gildo.lojaVirtual.Dominio</RootNamespace>
+    <AssemblyName>Gildo.lojaVirtual.Dominio</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

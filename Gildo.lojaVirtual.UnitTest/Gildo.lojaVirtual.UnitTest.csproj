@@ -83,9 +83,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Gildo.LojaVirtual.Dominio\Gildo.LojaVirtual.Dominio.csproj">
+    <ProjectReference Include="..\Gildo.LojaVirtual.Dominio\Gildo.lojaVirtual.Dominio.csproj">
       <Project>{78ba9aea-f8b0-4a1d-b3ee-666edfa0a25c}</Project>
-      <Name>Gildo.LojaVirtual.Dominio</Name>
+      <Name>Gildo.lojaVirtual.Dominio</Name>
     </ProjectReference>
     <ProjectReference Include="..\Gildo.lojaVirtual.Web\Gildo.lojaVirtual.Web.csproj">
       <Project>{6d2868f9-2c78-4d4f-8c11-1ec4b0f9cdda}</Project>

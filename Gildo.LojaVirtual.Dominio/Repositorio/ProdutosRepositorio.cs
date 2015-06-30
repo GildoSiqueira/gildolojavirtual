@@ -1,11 +1,7 @@
-﻿using Gildo.LojaVirtual.Dominio.Entidades;
-using System;
+﻿using Gildo.lojaVirtual.Dominio.Entidades;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Gildo.LojaVirtual.Dominio.Repositorio
+namespace Gildo.lojaVirtual.Dominio.Repositorio
 {
     public class ProdutosRepositorio
     {

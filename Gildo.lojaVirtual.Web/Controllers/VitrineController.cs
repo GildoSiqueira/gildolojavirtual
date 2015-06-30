@@ -1,5 +1,5 @@
-﻿using Gildo.lojaVirtual.Web.Models;
-using Gildo.LojaVirtual.Dominio.Repositorio;
+﻿using Gildo.lojaVirtual.Dominio.Repositorio;
+using Gildo.lojaVirtual.Web.Models;
 using System.Linq;
 using System.Web.Mvc;
 
@@ -14,9 +14,9 @@ namespace Gildo.lojaVirtual.Web.Controllers
         {
             _repositorio = new ProdutosRepositorio();
 
-            PodutosViewModel model = new PodutosViewModel
+            ProdutosViewModel model = new ProdutosViewModel            
             {
-                produtos = _repositorio.Produtos
+                Produtos = _repositorio.Produtos
                    .OrderBy(p => p.Descricao)
                    .Skip((pagina - 1) * ProdutosPorPagina)
                    .Take(ProdutosPorPagina),
